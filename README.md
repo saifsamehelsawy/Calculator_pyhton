@@ -10,7 +10,7 @@ A basic calculator built using **Python** and **Tkinter**. This calculator suppo
 
 
 
-)  <!-- ضع صورة هنا لو عندك -->
+  <!-- ضع صورة هنا لو عندك -->
 
 ## Installation
 1. Make sure you have Python installed (Python 3.x recommended).
